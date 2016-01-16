@@ -23,7 +23,7 @@ html, body {
 	width: 600px;
 	margin: auto;
 	margin-top: 7.5%;
-	margin-bottom: 5%
+	margin-bottom: 5%;
 
 }
 
@@ -91,6 +91,42 @@ html, body {
 p {
 	margin: 0;
 }
+
+a {
+	float: right;
+	margin-right: 70px;
+	margin-top: 12px;
+}
+
+a:visited, a:link {
+	color: white;
+	text-decoration: none;
+	font-family: sans-serif;
+	font-size: 20px;
+}
+
+.img-txt {
+	color: white;
+	font-size: 30px;
+	font-family: sans-serif;
+	text-align: center;
+	position: relative;
+	top: 130px;
+	left: -5px;
+
+}
+
+.click {
+	color: white;
+	font-size: 24px;
+	font-family: sans-serif;
+	text-align: center;
+	top: 12px;
+	left: -2px;
+	position: relative;
+
+}
+
 
 
 
